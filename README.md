@@ -17,9 +17,23 @@ Freelancer | Full-Stack Developer | Aspiring Software Engineer
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-r0777/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnuramesh0777@gmail.com)
-<a styles="padding-left:3px" href="https://leetcode.com/u/user3161EP/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="griffin_annshual" height="80" width="80" /></a>
+
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/vishnu-r0777/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&color=0A66C2&labelColor=black" />
+</a>
+
+<!-- LeetCode -->
+<a href="https://leetcode.com/u/user3161EP/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge&color=FFA116&labelColor=black" />
+</a>
+
+<!-- Gmail -->
+<a href="mailto:vishnuramesh0777@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-Mail-red?logo=gmail&style=for-the-badge&color=EA4335&labelColor=black" />
+</a>
+
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="300px" />
 
