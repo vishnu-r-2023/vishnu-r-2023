@@ -117,8 +117,8 @@
 
 <div align="center" style="margin-top: 40px;">
   <img 
-    src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f1d0d572816947.5c2bcd89d519b.gif" 
-    alt="Space Animation"
+    src="https://user-images.githubusercontent.com/101474129/216167103-29ae0c13-73b3-46d4-ac25-859791e382a4.gif" 
+    alt="DEV Animation"
     style="height: 180px; border-radius: 12px; object-fit: cover;"
   />
 </div>
