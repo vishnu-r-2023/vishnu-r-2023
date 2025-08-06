@@ -1,15 +1,15 @@
 <h1 align="center"><b>Hi 👋, I'm Vishnu R</b>
-  <img align="center" width="20%" src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png">
+  <img align="center" width="20%" src="https://alexindris.github.io/assets/img/portfolio/Avatar-Maker.png">
 </h1>
 
-Freelancer | Full-Stack Developer | Open Source Enthusiast
+Freelancer | Full-Stack Developer | Aspiring Software Engineer
 -----------------------------------------------------------
 
 🔭 Building scalable applications with modern web technologies.  
 🌱 Passionate about Web, ML, and Data Engineering.  
 📍 Based in India | Available for freelance work and collaborations!  
 
-*   🖥️ Portfolio: [Coming Soon]
+*   🖥️ Portfolio: [https://portfolio-mern-vishnu-r-2023.onrender.com/]
 *   📧 Email: [vishnuramesh0777@gmail.com](mailto:vishnuramesh0777@gmail.com)
 *   🧠 Currently exploring: AI/ML and Full-Stack Architectures
 *   🤝 Open to: Hackathons, Real-world Projects, Team-ups
