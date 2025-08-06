@@ -109,19 +109,20 @@
 
 ---
 
-<details>
-  <summary>👁️ Profile Views</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=vishnu-r-2023&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile Views Badge" style="vertical-align: middle;"/>
-  <br/><br/>
-</details>
+<div style="max-width: 600px;">
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhdWRkaTc2cXByYnZwYnZ3amV2N3NmcDU4dWw0OHV4eGptZXBoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" height="150px" style="margin-top: 0; display: block;" alt="Gif" />
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhdWRkaTc2cXByYnZwYnZ3amV2N3NmcDU4dWw0OHV4eGptZXBoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" height="150px" style="margin-left: 10px; margin-top: 0; display: block;" alt="Gif" />
 
-<h3><b>Thanks for visiting my profile! 🤗💫🧑🏻‍💻</b></h3>
-<i>
-  "Strive not to be a success, but rather to be of value." — Albert Einstein
-</i>
+  <h1 style="margin-top: 0;">
+    Thanks for visiting my profile! 🤗💫🧑🏻‍💻
+  </h1>
+
+  <p style="white-space: nowrap; margin-top: 0; font-style: italic;">
+    "Strive not to be a success, but rather to be of value." — Albert Einstein
+  </p>
+
+</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
