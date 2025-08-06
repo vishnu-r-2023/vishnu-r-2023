@@ -35,7 +35,7 @@ Freelancer | Full-Stack Developer | Aspiring Software Engineer
 </a>
 
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="300px" />
+<img align="right" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVnd3ExOWVhMmJweWt1ZXllemcxeWhreWVnN2N2cThlemo1Y2M0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVnd3ExOWVhMmJweWt1ZXllemcxeWhreWVnN2N2cThlemo1Y2M0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" height="300px" />
 
 ---
 
