@@ -108,28 +108,19 @@
 </p>
 
 ---
-
-<details>
-  <summary>👁️ Profile Views</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=vishnu-r-2023&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile Views Badge" style="vertical-align: middle;"/>
-  <br/><br/>
-</details>
-
-<div style="overflow: hidden;">
-
-  <div style="float: left; width: 60%; padding-right: 20px;">
-    <p><b>Thanks for visiting my profile! 🤗💫🧑🏻‍💻</b></p>
-    <p style="margin: 0; white-space: nowrap;">
-      <i>"Strive not to be a success, but rather to be of value." — Albert Einstein</i>
-    </p>
-  </div>
-
-  <div style="float: right; width: 40%;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhdWRkaTc2cXByYnZwYnZ3amV2N3NmcDU4dWw0OHV4eGptZXBoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" height="150px" alt="Gif" />
-  </div>
-
-</div>
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td valign="middle" width="60%" style="border: none; padding-right: 20px;">
+      <p><b>Thanks for visiting my profile! 🤗💫🧑🏻‍💻</b></p>
+      <p style="margin: 0; white-space: nowrap;">
+        <i>"Strive not to be a success, but rather to be of value." — Albert Einstein</i>
+      </p>
+    </td>
+    <td valign="middle" width="40%" style="border: none;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhdWRkaTc2cXByYnZwYnZ3amV2N3NmcDU4dWw0OHV4eGptZXBoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" height="150px" alt="Gif" />
+    </td>
+  </tr>
+</table>
 
 
 
