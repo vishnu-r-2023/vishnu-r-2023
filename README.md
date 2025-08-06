@@ -117,9 +117,9 @@
     Thanks for visiting my profile! 🤗💫🧑🏻‍💻
   </h1>
 
-  <p style="white-space: nowrap; margin-top: 0; font-style: italic;">
+  <i>
     "Strive not to be a success, but rather to be of value." — Albert Einstein
-  </p>
+  </i>
 
 </div>
 
