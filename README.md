@@ -118,8 +118,8 @@
 <div align="center" style="margin-top: 40px;">
   <img 
     src="https://user-images.githubusercontent.com/101474129/216167103-29ae0c13-73b3-46d4-ac25-859791e382a4.gif" 
-    alt="DEV Animation"
-    style="height: 180px; border-radius: 12px; object-fit: cover;"
+    alt="Space Animation"
+    style="max-width: 100%; height: auto; border-radius: 10px;"
   />
 </div>
 
