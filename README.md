@@ -114,10 +114,9 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=vishnu-r-2023&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile Views Badge">
   <br/><br/>
-  <p><b>Thanks for visiting my profile! 🤗💫🧑🏻‍💻</b></p>
-  <p><i>"Strive not to be a success, but rather to be of value." — Albert Einstein</i></p>
 </details>
-
+<p><b>Thanks for visiting my profile! 🤗💫🧑🏻‍💻</b></p>
+<p><i>"Strive not to be a success, but rather to be of value." — Albert Einstein</i></p>
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhdWRkaTc2cXByYnZwYnZ3amV2N3NmcDU4dWw0OHV4eGptZXBoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" height="300px" style="margin-top: 80px; display: block;" />
 
 
