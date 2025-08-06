@@ -115,6 +115,7 @@
   <img src="https://komarev.com/ghpvc/?username=vishnu-r-2023&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54a0ae72816947.5bf59bc4d988b.gif" alt="Animated GIF" style="display: block; height: 300px; margin-top: 60px;" />
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54a0ae72816947.5bf59bc4d988b.gif" style="display: block; opacity: 1;">
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
