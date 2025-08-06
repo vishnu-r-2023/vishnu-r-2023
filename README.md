@@ -1,6 +1,6 @@
 <h1 align="center">
   <b>Hi 👋, I'm Vishnu R</b>
-  <img align="center" width="20%" src="https://alexindris.github.io/assets/img/portfolio/Avatar-Maker.png">
+  <img align="center" width="20%" src="https://www.digimarco.com/wp-content/uploads/2020/10/Avatar-Maker.png">
 </h1>
 
 <p align="center">
