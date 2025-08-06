@@ -116,12 +116,12 @@
   <br/><br/>
 </details>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhdWRkaTc2cXByYnZwYnZ3amV2N3NmcDU4dWw0OHV4eGptZXBoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" height="150px" style="margin-left: 20px; margin-top: 0; display: block;" alt="Gif" />
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhdWRkaTc2cXByYnZwYnZ3amV2N3NmcDU4dWw0OHV4eGptZXBoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" height="150px" style="margin-top: 0; display: block;" alt="Gif" />
 
-<p><b>Thanks for visiting my profile! 🤗💫🧑🏻‍💻</b></p>
-<p style="white-space: nowrap; margin-top: 0; font-style: italic;">
+<h3><b>Thanks for visiting my profile! 🤗💫🧑🏻‍💻</b></h3>
+<i>
   "Strive not to be a success, but rather to be of value." — Albert Einstein
-</p>
+</i>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
