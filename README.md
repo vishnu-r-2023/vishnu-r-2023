@@ -19,6 +19,7 @@ Freelancer | Full-Stack Developer | Aspiring Software Engineer
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-r0777/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnuramesh0777@gmail.com)
+<a styles="padding-left:3px" href="https://leetcode.com/u/user3161EP/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="griffin_annshual" height="80" width="80" /></a>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="300px" />
 
