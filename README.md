@@ -34,13 +34,12 @@
     <img src="https://img.shields.io/badge/Gmail-Mail-EA4335?logo=gmail&style=for-the-badge&labelColor=black"/>
   </a>
 </p>
-
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVnd3ExOWVhMmJweWt1ZXllemcxeWhreWVnN2N2cThlemo1Y2M0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="300px" style="margin-top: 50px; display: block;" />
-
-
 ---
 
 <h2>💻 Tech Stack</h2>
+
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVnd3ExOWVhMmJweWt1ZXllemcxeWhreWVnN2N2cThlemo1Y2M0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="300px" style="margin-top: 50px; display: block;" />
+
 
 ### ✨ Languages:
 <p>
