@@ -113,9 +113,9 @@
 
   <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhdWRkaTc2cXByYnZwYnZ3amV2N3NmcDU4dWw0OHV4eGptZXBoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" height="150px" style="margin-left: 10px; margin-top: 0; display: block;" alt="Gif" />
 
-  <h1>
+  <p>
     Thanks for visiting my profile! 🤗💫🧑🏻‍💻
-  </h1>
+  </p>
 
   <i>
     "Strive not to be a success, but rather to be of value." — Albert Einstein
