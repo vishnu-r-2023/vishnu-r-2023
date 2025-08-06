@@ -117,9 +117,9 @@
 
 <div align="center" style="margin-top: 40px;">
   <img 
-    src="https://user-images.githubusercontent.com/101474129/216167103-29ae0c13-73b3-46d4-ac25-859791e382a4.gif" 
+    src="https://s5.ezgif.com/tmp/ezgif-516731e891e270.gif" 
     alt="Space Animation"
-    style="max-width: 100%; height: auto; border-radius: 10px;"
+    style="max-width: 100%; height: 200px; border-radius: 10px;"
   />
 </div>
 
