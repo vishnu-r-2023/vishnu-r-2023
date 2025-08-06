@@ -115,9 +115,14 @@
   <img src="https://komarev.com/ghpvc/?username=vishnu-r-2023&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f1d0d572816947.5c2bcd89d519b.gif" alt="gif" width="500px" style="margin-top: 40px;" />
-</p>
+<div align="center" style="margin-top: 40px;">
+  <img 
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f1d0d572816947.5c2bcd89d519b.gif" 
+    alt="Space Animation"
+    style="max-width: 100%; height: auto; border-radius: 10px;"
+  />
+</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
