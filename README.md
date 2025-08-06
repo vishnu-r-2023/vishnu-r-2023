@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/Gmail-Mail-EA4335?logo=gmail&style=for-the-badge&labelColor=black"/>
   </a>
 </p>
+
 ---
 
 <h2>💻 Tech Stack</h2>
