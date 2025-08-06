@@ -111,6 +111,13 @@
 
 <div style="max-width: 600px;">
 
+<details>
+  <summary>👁️ Profile Views</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=vishnu-r-2023&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile Views Badge" style="vertical-align: middle;"/>
+  <br/><br/>
+</details>
+
   <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhdWRkaTc2cXByYnZwYnZ3amV2N3NmcDU4dWw0OHV4eGptZXBoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" height="150px" style="margin-left: 10px; margin-top: 0; display: block;" alt="Gif" />
 
   <p>
