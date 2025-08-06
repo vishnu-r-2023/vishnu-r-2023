@@ -115,13 +115,8 @@
   <img src="https://komarev.com/ghpvc/?username=vishnu-r-2023&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
-<div align="center" style="margin-top: 40px;">
-  <img 
-    src="https://s5.ezgif.com/tmp/ezgif-516731e891e270.gif" 
-    alt="Space Animation"
-    style="max-width: 100%; height: 200px; border-radius: 10px;"
-  />
-</div>
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZhdWRkaTc2cXByYnZwYnZ3amV2N3NmcDU4dWw0OHV4eGptZXBoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MLdIYIHup9Q2xG/giphy.gif" height="300px" style="margin-top: 80px; display: block;" />
+
 
 
 
