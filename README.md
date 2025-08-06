@@ -116,7 +116,7 @@
 </details>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/54a0ae72816947.5bf59bc4d988b.gif" alt="gif" width="300px" style="margin-top: 40px;" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/54a0ae72816947.5bf59bc4d988b.gif" alt="gif" width="900px" style="margin-top: 40px;" />
 </p>
 
 
