@@ -2,17 +2,17 @@
   <img align="center" width="20%" src="https://alexindris.github.io/assets/img/portfolio/Avatar-Maker.png">
 </h1>
 
-Freelancer | Full-Stack Developer | Aspiring Software Engineer
+Freelancer | Full-Stack Developer | Aspiring Software Engineer  
 -----------------------------------------------------------
 
 🔭 Building scalable applications with modern web technologies.  
 🌱 Passionate about Web, ML, and Data Engineering.  
 📍 Based in India | Available for freelance work and collaborations!  
 
-*   🖥️ Portfolio: [https://portfolio-mern-vishnu-r-2023.onrender.com/]
-*   📧 Email: [vishnuramesh0777@gmail.com](mailto:vishnuramesh0777@gmail.com)
-*   🧠 Currently exploring: AI/ML and Full-Stack Architectures
-*   🤝 Open to: Hackathons, Real-world Projects, Team-ups
+* 🖥️ Portfolio: [https://portfolio-mern-vishnu-r-2023.onrender.com/](https://portfolio-mern-vishnu-r-2023.onrender.com/)
+* 📧 Email: [vishnuramesh0777@gmail.com](mailto:vishnuramesh0777@gmail.com)
+* 🧠 Currently exploring: AI/ML and Full-Stack Architectures
+* 🤝 Open to: Hackathons, Real-world Projects, Team-ups
 
 ---
 
@@ -27,13 +27,13 @@ Freelancer | Full-Stack Developer | Aspiring Software Engineer
 ## 💻 Tech Stack:
 
 ### 💡 Languages, Frameworks & Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ### 🌐 Frontend & Backend:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -45,17 +45,17 @@ Freelancer | Full-Stack Developer | Aspiring Software Engineer
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ### 🧠 ML | Data | Tools:
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🛠️ DevOps & Hosting:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
@@ -80,10 +80,10 @@ Freelancer | Full-Stack Developer | Aspiring Software Engineer
 
 ---
 
-## 🔍 Profile Views:
-
-[![](https://visitcount.itsvg.in/api?id=vishnu-r-2023&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
+<details>
+  <summary>👁️ Profile Views</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=vishnu-r-2023&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
