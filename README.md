@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi 👋, I'm Vishnu R</b>
+  <b>Hi 👋🏻, I'm Vishnu R 😃</b>
   <img align="center" width="20%" src="https://www.digimarco.com/wp-content/uploads/2020/10/Avatar-Maker.png">
 </h1>
 
@@ -17,7 +17,7 @@
   🖥️ Portfolio: <a href="https://portfolio-mern-vishnu-r-2023.onrender.com/" target="_blank">portfolio-mern-vishnu-r-2023</a><br/>
   📧 Email: <a href="mailto:vishnuramesh0777@gmail.com">vishnuramesh0777@gmail.com</a><br/>
   🧠 Currently exploring: AI/ML and Full-Stack Architectures<br/>
-  🤝 Open to: Hackathons, Real-world Projects, Team-ups
+  🫱🏻‍🫲🏻 Open to: Hackathons, Real-world Projects, Team-ups
 </p>
 
 ---
@@ -115,7 +115,9 @@
   <img src="https://komarev.com/ghpvc/?username=vishnu-r-2023&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54a0ae72816947.5bf59bc4d988b.gif" style="display: block; opacity: 1;">
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/54a0ae72816947.5bf59bc4d988b.gif" alt="gif" width="300px" style="margin-top: 40px;" />
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
